@@ -1,0 +1,39 @@
+html {
+    box-sizing: border-box;
+    height: 100%;
+  }
+  
+  *,
+  *::before,
+  ::after {
+    box-sizing: inherit;
+  }
+  
+  body {
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 400;
+    margin: 0;
+    height: 100%;
+  }
+  h3 {
+    margin: 0;
+  }
+  
+  ul {
+    padding-inline-start: 0;
+  }
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  li {
+    list-style-type: none;
+  }
+  
+  p {
+    margin: 0px;
+  }
+  
